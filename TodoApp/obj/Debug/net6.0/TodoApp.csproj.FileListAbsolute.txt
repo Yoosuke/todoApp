@@ -19,3 +19,9 @@
 /Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/TodoApp.pdb
 /Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/TodoApp.genruntimeconfig.cache
 /Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/ref/TodoApp.dll
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/bin/Debug/net6.0/web.config
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/bin/Debug/net6.0/TodoApp.staticwebassets.runtime.json
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/TodoApp.RazorAssemblyInfo.cache
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/TodoApp.RazorAssemblyInfo.cs
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/Debug/net6.0/scopedcss/projectbundle/TodoApp.bundle.scp.css
