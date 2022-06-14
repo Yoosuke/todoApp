@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/TodoApp.csproj": {}
+    "/Users/yosuke-nk/Projects/todoApp/TodoApp/TodoApp.csproj": {}
   },
   "projects": {
-    "/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/TodoApp.csproj": {
+    "/Users/yosuke-nk/Projects/todoApp/TodoApp/TodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/TodoApp.csproj",
+        "projectUniqueName": "/Users/yosuke-nk/Projects/todoApp/TodoApp/TodoApp.csproj",
         "projectName": "TodoApp",
-        "projectPath": "/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/TodoApp.csproj",
+        "projectPath": "/Users/yosuke-nk/Projects/todoApp/TodoApp/TodoApp.csproj",
         "packagesPath": "/Users/yosuke-nk/.nuget/packages/",
-        "outputPath": "/Users/yosuke-nk/Documents/CSape/todoApp/TodoApp/obj/",
+        "outputPath": "/Users/yosuke-nk/Projects/todoApp/TodoApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yosuke-nk/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,26 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
